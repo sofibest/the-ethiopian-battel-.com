@@ -1,0 +1,13 @@
+body{
+     background-image: url('download.jpg');
+     height: 200vh;
+     width: 100%;
+     background-size: cover;
+     background-repeat: no-repeat;
+}
+p{
+color: white;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: larger;
+
+}
